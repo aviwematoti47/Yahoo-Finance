@@ -1,4 +1,6 @@
+#Create a requirements file for streamlit
 streamlit
-matlplotlib
-yfinance
+numpy
 pandas
+scikit-learn
+matplotlib
